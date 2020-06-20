@@ -1,0 +1,61 @@
+••
+••
+// I. How should we define AI?w
+
+
+
+Application 1. Self-driving cars
+
+Self-driving cars require a combination of AI techniques of many kinds: search and planning to find the most convenient route from A to B, computer vision to identify obstacles, and decision making under uncertainty to cope with the complex and dynamic environment. Each of these must work with almost flawless precision in order to avoid accidents.
+
+The same technologies are also used in other autonomous systems such as delivery robots, flying drones, and autonomous ships.
+
+Implications: road safety should eventually improve as the reliability of the systems surpasses human level. The efficiency of logistics chains when moving goods should improve. Humans move into a supervisory role, keeping an eye on what’s going on while machines take care of the driving. Since transportation is such a crucial element in our daily life, it is likely that there are also some implications that we haven't even thought about yet.
+hand holding a mobile phone
+
+
+Application 2. Content recommendation
+
+A lot of the information that we encounter in the course of a typical day is personalized. Examples include Facebook, Twitter, Instagram, and other social media content; online advertisements; music recommendations on Spotify; movie recommendations on Netflix, HBO, and other streaming services. Many online publishers such as newspapers’ and broadcasting companies’ websites as well as search engines such as Google also personalize the content they offer.
+
+While the frontpage of the printed version of the New York Times or China Daily is the same for all readers, the frontpage of the online version is different for each user. The algorithms that determine the content that you see are based on AI.
+
+Implications: while many companies don’t want to reveal the details of their algorithms, being aware of the basic principles helps you understand the potential implications: these involve so called filter bubbles, echo-chambers, troll factories, fake news, and new forms of propaganda.
+
+
+Application 3. Image and video processing
+
+Face recognition is already a commodity used in many customer, business, and government applications such as organizing your photos according to people, automatic tagging on social media, and passport control. Similar techniques can be used to recognize other cars and obstacles around an autonomous car, or to estimate wildlife populations, just to name a few examples.
+
+AI can also be used to generate or alter visual content. Examples already in use today include style transfer, by which you can adapt your personal photos to look like they were painted by Vincent van Gogh, and computer generated characters in motion pictures such as Avatar, the Lord of the Rings, and popular Pixar animations where the animated characters replicate gestures made by real human actors.
+
+Implications: when such techniques advance and become more widely available, it will be easy to create natural looking fake videos of events that are impossible to distinguish from real footage. This challenges the notion that “seeing is believing”.
+
+
+
+
+Key terminology
+Autonomy
+
+The ability to perform tasks in complex environments without constant guidance by a user.
+Adaptivity
+
+The ability to improve performance by learning from experience.
+
+
+
+
+Note
+Watch out for ‘suitcase words’
+
+Marvin Minsky, a cognitive scientist and one of the greatest pioneers in AI, coined the term suitcase word for terms that carry a whole bunch of different meanings that come along even if we intend only one of them. Using such terms increases the risk of misinterpretations such as the ones above.
+
+
+
+
+Note
+“AI” is not a countable noun
+
+When discussing AI, we would like to discourage the use of AI as a countable noun: one AI, two AIs, and so on. AI is a scientific discipline, like mathematics or biology. This means that AI is a collection of concepts, problems, and methods for solving them.
+
+Because AI is a discipline, you shouldn't say “an AI“, just like we don't say “a biology“. This point should also be quite clear when you try saying something like “we need more artificial intelligences.“ That just sounds wrong, doesn't it? (It does to us).
