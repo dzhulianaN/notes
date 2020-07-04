@@ -86,3 +86,11 @@ Next we’ll get specific on localization (i.e., customization for local markets
 Finally, we’ll talk about scenario design and hardware considerations.
 
 Module Three
+Module Three of the course assumes that you already know how to code, but that you have not yet experienced 
+writing software for international markets. There are four coding exercises. Each includes a written explanation 
+of what you need to do and a video walk through in case you need extra help.
+
+Once you’ve completed the exercises, you should understand the basics of writing world-ready code and structuring 
+your source files to make your software localizable. We say basics because the homework assignments won’t take you 
+through the nuances of every available API, tool or technique, some of which differ depending on the platform and 
+programming language you choose. We will, however, point you to sources that will help you explore more advanced topics.
