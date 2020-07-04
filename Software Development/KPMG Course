@@ -33,3 +33,32 @@ delays for a global rollout.
 
 You wouldn’t be the first to experience this nightmare. In this course, seasoned veterans who’ve been down 
 that road will set you on the path toward global success.
+
+Learn from Our Mistakes
+In the 1990s, companies like Microsoft would first create software for their biggest market: English 
+speakers in the United States. Only after they shipped the “English-US” product would the core development 
+team pass the code to a completely separate team, who would embark on modifying it for markets outside the US. 
+Several months later, the first international edition would arrive, usually German, followed in subsequent 
+months by editions prioritized by market size.
+
+Sounds like a pretty straightforward process, right? Except that it wasn’t.
+
+“Retro-fitting” software to accommodate differences in language, country standards and culture is similarly 
+painful, complicated, expensive and time-consuming. That’s why it’s so important to build “world-readiness” 
+into the user experience and code design from the very beginning of a project.
+
+Module One
+This course consists of three main modules. The first focuses on the business side of international software 
+design. You need to make the business case—first to yourself, then to your managers or investors—that shipping 
+your software outside your home market makes sense. To make informed decisions, you need to understand the basics 
+of creating world-ready software.
+
+What does it mean to create world-ready software and why is it an important thing to do?
+When does it make sense to ship software to a specific market?
+How much of effort is required to make software work for multiple markets, and what kind of resources will 
+be necessary to do so?
+The objective of this part of the course is to get the business and engineering teams on the same page and 
+communicating so they understand each other’s issues. It provides a basis for such discussions, focusing on 
+concepts rather than technical details. In this day and age of mobile app development, however, business and 
+technical decision makers can be the same people. It can even be the same person, if you are a team of one, in 
+which case, understanding the business issues related to world-ready software is definitely a requirement.
