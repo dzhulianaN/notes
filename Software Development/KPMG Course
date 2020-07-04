@@ -16,3 +16,20 @@
 10. Logic and Computational Thinking
 11. Introduction to Design Thinking
 12. Introduction to Python: Absolute Beginner
+
+Let’s say you’ve just finished your app. Getting the engineers and UX developers all on the same page 
+to realize your vision was brutal, but now your baby is out there selling like mad. Everyone in the world 
+wants it, but there’s just one problem: it’s only available in English. And it’s for a US audience. You 
+figure you can just use some kind of translator, so you pull one off the Internet and translate your strings 
+into German. But after you compile your German app and run it, the text is cut off. So, you realize you 
+have more work to do.
+
+In the meantime, people in other countries have downloaded the English version of your app, tried to use it, 
+and got upset when they had trouble entering text in their own language. Worse, the “auto-correct” feature, 
+which doesn’t understand any language other than English, suggests offensive words to some users. Now you’re 
+getting hate mail. You discover retro-fitting your app for international markets is going to cost more than 
+the original build. If you’d planned ahead, you’d be flying high. Instead, you’re apologizing and announcing 
+delays for a global rollout.
+
+You wouldn’t be the first to experience this nightmare. In this course, seasoned veterans who’ve been down 
+that road will set you on the path toward global success.
