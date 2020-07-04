@@ -62,3 +62,27 @@ communicating so they understand each other’s issues. It provides a basis for 
 concepts rather than technical details. In this day and age of mobile app development, however, business and 
 technical decision makers can be the same people. It can even be the same person, if you are a team of one, in 
 which case, understanding the business issues related to world-ready software is definitely a requirement.
+
+Module Two
+The second module of the course focuses on User Experience design. In the early days of the technology industry, 
+no one thought much about the User Experience. These days, User Experience design is its own specialization. 
+Experience designers work to build software that not only functions the way people expect, but that they enjoy using.
+
+Creating software that works—as is—for people around the world requires thoughtful design. While human beings 
+have a lot of commonalities, we also have a lot of differences, particularly when it comes to what we need, expect, 
+and enjoy from a software experience. It’s not just about taste. It’s about cultural and geographical context as well.
+
+Because the perspectives are very different, outstanding User Experience (UX) designers seldom write code, 
+while engineers are seldom outstanding UX designers. Fortunately, your engineering instructors have recruited 
+experts who have lived and breathed the design discipline for many years. If you are an engineer, it’s important 
+to understand what a designer does and how your code needs to support their work. This course won’t cover design 
+in detail, but will focus on world-ready aspects of design. If you are a designer, this part of the course 
+will help you understand what engineers need to do to implement your designs in a world-ready fashion.
+
+We’ll talk about what a “world-ready user experience” means and the market, language, regional, and cultural 
+differences that affect the design of software experiences.
+We’ll then spend time exploring effective design approaches.
+Next we’ll get specific on localization (i.e., customization for local markets), and the importance of culturalization.
+Finally, we’ll talk about scenario design and hardware considerations.
+
+Module Three
