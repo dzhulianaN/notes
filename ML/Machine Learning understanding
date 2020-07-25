@@ -1,2 +1,23 @@
 
 Notes from conversation with Athila (Django Girls)
+
+Machine learning is basically high-level statistics and we must have data to use it. There is no sense 
+to start using a machine algorithm if we don't have enough data (imagine at least 10 000 rows in excel). 
+Machine learning helps us to get information and make better decisions not the other way around.
+
+Exmpl.
+1. Step. When we have 10 000 rows in an excel table filled with answers by our mentors and mentee 
+(Using OUOD - www.oneuponedown.org) - their preferences ordered from most desired to less desired, we can 
+fill this data in an application such as TensorFlow (www.tensorflow.org).
+
+2. Step. We create 3 sets of data. 
+- In Set 1(Training Set), we have the values and create the best match. 
+- In Set 2(Test Set), we have only inputs - not the value and test how close our outcome is to 'the best match' 
+that we created in Set 1. At Set 2, we modify the parameters constantly in order to achieve the desired outcome. 
+Here, we don't give the results but rather than, we test what the algorithm will give us and compare with 
+Set 1(not very sure about this comparison thing!). 
+- At Set 3(Verification Set), we have values that have never been seen or used before - new dataset. The values 
+we put here will give us some outcome which we compare with our desired one (the best match) and see how close 
+is to that. If we achieve 67% from 100%, we go back to Set 2 and do parameters adjustments, test the adjustments 
+and go to Set 3 again - verify with new data.
+
