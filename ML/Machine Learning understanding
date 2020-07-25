@@ -29,3 +29,10 @@ To understand Machine Learning and make use of it, we need to have some previous
 (Polynomial, Combinatorics, Matrix,  etc. - Functions don't need that much) and then understand some High dimensional 
 matrix (check out the course Machiene Learning by Andrew Ng - founder of www.deeplearning.ai,  in Coursera.org or 
 NLP course by him again). 
+
+For understanding better, which algorithm is best for our problem, we can practice by guessing algorithm-problem match. 
+We can also see in action how ML works by using open-source datasets - https://liveproject.manning.com
+
+ML is a fancy acronym today in July 2020 but there isn't so much new information from the last years - it's just 
+about more people looking at this information. Topic to research:
+- What we have learn for Machiene Learning for the last 5 years?
