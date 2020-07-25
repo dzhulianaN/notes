@@ -21,3 +21,11 @@ we put here will give us some outcome which we compare with our desired one (the
 is to that. If we achieve 67% from 100%, we go back to Set 2 and do parameters adjustments, test the adjustments 
 and go to Set 3 again - verify with new data.
 
+There are many different algorithms created for different problems. We need to understand the problem that we 
+have and then look at the different algorithms and understand what problem solve each algorithm. When we know this, 
+we can pick the algorithm that solves problem similar to ours. 
+
+To understand Machine Learning and make use of it, we need to have some previous knowledge in Linear Algebra 
+(Polynomial, Combinatorics, Matrix,  etc. - Functions don't need that much) and then understand some High dimensional 
+matrix (check out the course Machiene Learning by Andrew Ng - founder of www.deeplearning.ai,  in Coursera.org or 
+NLP course by him again). 
