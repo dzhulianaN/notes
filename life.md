@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Life Thoughts"
+title:  "Life"
 
 ---
 
