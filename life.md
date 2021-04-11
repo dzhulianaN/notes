@@ -5,3 +5,4 @@ title:  "Life Thoughts"
 ---
 
 # Welcome
+Life stuff
