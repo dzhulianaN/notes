@@ -2,29 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
-[Everyday Notes](./everyday-notes/full-list.md).
+<p>
+Here are my thoughts, code snippets, learning journals on books, scientific articles, blog posts, discussions, and life.</p>
 
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<h3>Categories:</h3>
+* . [Everyday Notes](./everyday-notes/full-list.md)
 
-# Header 1
+// [Link to another page](./another-page.html).
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
+<h3>Markdow stuff:</h3>
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -40,20 +30,17 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
-
+<h3>Unordered list:</h3>
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
-
+<h3>Ordered list:</h3>
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
-
+<h3>Table:</h3>
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
