@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[back](./)
+[back](./everyday-notes/everyday-notes.md)
 
 <h1>
 Sunday goals: 
