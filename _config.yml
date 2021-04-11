@@ -2,3 +2,7 @@ theme: jekyll-theme-minimal
 
 title: [Dzhuliana's digital notebook]
 description: [A digital notebook where I will keep all my stuff organized in order to find them easier in the future.]
+
+logo: [/assets/img/logo-dzh.png]
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
