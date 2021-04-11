@@ -10,6 +10,8 @@ Ok. Well done so far. Now I want to see how to change the layout of my theme.
 
 Ok. Now I want to see all my local change live.
 
+OK. Good. Another test now - update theme layout and see how to upload images.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
