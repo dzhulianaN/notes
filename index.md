@@ -6,6 +6,8 @@ Let's see what's going on here.
 
 Today I will try to add some notes from my paper notebook. Let's see what will happens.
 
+Ok. Well done so far. Now I want to see how to change the layout of my theme.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
