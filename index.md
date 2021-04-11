@@ -4,6 +4,9 @@ Let's see what's going on here.
 
 ### Markdown
 
+[Link to life]({% post_url 2021-04-11-how-to-write-a-blog %})
+
+
 Today I will try to add some notes from my paper notebook. Let's see what will happens.
 
 
