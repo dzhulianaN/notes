@@ -22,7 +22,7 @@ I will build a new self which is required to the next part of my life.<br>
 <br>
 -----
 <strong>Book:</strong>
-[The education of a bodybuilder by Arnold](./https://avidano.files.wordpress.com/2012/10/arnold-schwarzeneggereducation-of-bodybuilders.pdf)
+[The education of a bodybuilder by Arnold](https://avidano.files.wordpress.com/2012/10/arnold-schwarzeneggereducation-of-bodybuilders.pdf)
 <br>
 -----
 <strong>Check point:</strong>
