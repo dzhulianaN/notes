@@ -11,7 +11,7 @@ Date: 2021-04-15
 </h4>
 <br>
 <p>
-By observing the principles of strict discipline and three-part formula:
+By observing the principles of strict discipline and three-part formula:<br>
 - self-confidence<br>
 - positive mental attitude<br>
 - honest hard work<br>
@@ -24,11 +24,11 @@ I will build a new self which is required to the next part of my life.<br>
 <strong>Book:</strong>
 [The education of a bodybuilder by Arnold](./https://avidano.files.wordpress.com/2012/10/arnold-schwarzeneggereducation-of-bodybuilders.pdf)
 <br>
+-----
 <strong>Check point:</strong>
 Bodybuilding Bikini Competition 1-3 Oct 2021
 Birmingham, UK
 
-</p>
 
 
 
