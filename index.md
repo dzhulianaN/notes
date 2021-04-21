@@ -9,7 +9,7 @@ Here are my thoughts, code snippets, learning journals on books, scientific arti
 
 
 <h3>Categories:</h3>
-* . [Everyday Notes](./everyday-notes/full-list.md)
+*  [Everyday Notes](./everyday-notes/full-list.md)
 
 // [Link to another page](./another-page.html).
 
@@ -81,16 +81,16 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
-
+<!-- 
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://guides.github.com/activities/hello-world/branching.png) -->
 
-
+<!-- 
 ### Definition lists can be used with HTML syntax.
 
 <dl>
@@ -110,4 +110,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
