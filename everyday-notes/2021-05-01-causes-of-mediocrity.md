@@ -13,11 +13,11 @@ Date: 2021-05-01
 - Not asking for help - doing everything by myself<br>
 - Neglecting my health and physical form<br>
 - Neglecting manners, speaking, tone of voice<br>
-- Having an undisciplined mind and not dealing with this issue. People don’t<br> 
-realise and fully understand the power of our mind. They understand the power<br> 
-of the brain - everyone knows that if you are smart, you will earn a lot of money.<br> 
-But is that the end goal? There are many rich people that will be forgotten and <br>
-have never helped another human being. If you study in a good school or if you <br>
+- Having an undisciplined mind and not dealing with this issue. People don’t
+realise and fully understand the power of our mind. They understand the power
+of the brain - everyone knows that if you are smart, you will earn a lot of money.
+But is that the end goal? There are many rich people that will be forgotten and
+have never helped another human being. If you study in a good school or if you 
 are talanted and are smarter than other and you think that's enough. <br>
 <br>
 The problem is that this story that everyone believes in is just one point of view.<br>
@@ -49,7 +49,7 @@ But I believe I must struggle, fight and act in order to inspire future humans b
 through inspiration people act. Only inspiration give courage to achieve great things.<br> 
 <br>
 - Today, my inspiration comes from Ferdinand Magellan. This human that has never thought or suggest<br> 
-that could inspire a modern women 500 years later. Exactly 500 years from his last day - 27.04.1521Y.<br> 
+that could inspire a modern woman 500 years later. Exactly 500 years from his last day - 27.04.1521Y.<br> 
 I wish he could knew about this. I wish I knew this human and had the chance to talk with him<br> 
 or just to listen to his talks..or just to read some of his journals.<br> 
 - Today, my inspiration comes from Abraham Lincoln. I wish he could knew that a women, 156years later<br> 
