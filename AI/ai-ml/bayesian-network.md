@@ -75,8 +75,56 @@ Inference (reasoning):<br>
 Learning:<br>
 - parameters and structure<br>
 - with and without complete data<br>
-
+<br>
+Join Distribution in the student example:<br>
+- variable 1: intelligence(I) - it has 2 values: low, high<br>
+- variable 2: difficulty(D) - it has 2 values: easy, hard<br>
+- variable 3: grade(G) - it has 3 values: g1, g3, g3<br>
+<br>
+P(I,D,G) = 2x2x3 = 12 probabilities
+We also have indipendent parameters whose value is not completely determined by the value of other
+parameters.<br>
+All the probabilites have to sum to 1 so if you tell me eleven out of the twelve, I know what the 
+twelfth is so the number of independent parameters is eleven.
+<br>
+Conditioning: Reduction<br>
+- if we know one parameter this will cause reduction of the probabilities we came in the beginning.
+This operation is called reduction.<br>
+Unnormalized measure which means it doesn't sum to 1. So we need to normalize this distribution - make 
+them sum to 1.<br>
+Marginalization<br>
+- marginalize over I or D - P(I,D)<br>
+<br>
+Factor:<br>
+This is a function or a table that takes arguments (a set of variables), and just like any function
+it gives us a value for every assignment.<br>
+The set of variable is called the scope of the factor.<br>
+A join distribution is a factor.<br>
+For every value of I, D and G, a combination of values, I get a number that's why it's a factor.<br>
+<br>
+Conditional Probability Distribution (CPD)<br>
+It gives us the conditional probability of the variable G given I and D - P(G | I,D).
+This means for every combination of values to the variables I and D, we have a probability distribution over G.<br>
+<br>
+Factor Product<br>
  
+Factor Marginalization<br>
+
+Factor Reduction<br>
+<br>
+Why factors?<br>
+- It turns out that these are the fundamental building block for defining distributions in high-dimensional spaces. That is the way in which we're going to define an exponentially large probability putting them together by multiplying factors in order to define these high dimensional probability distributions.<br>
+- Also, the same set of basic operation that we use to define the probability distributions in these high dimensional spaces are also what we use for manipulating them in order give us a set of basic inference algorithms.<br>
+Test:
+1 - 0.16 0.45 0.6 
+2 - 42 85 96 30
+3 - A & B
+4 - 108 135 79 141
+
+
+  
+
+
 
 
 </p>
