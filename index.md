@@ -10,7 +10,7 @@ Here are my thoughts, code snippets, learning journals on books, scientific arti
 
 <h3>Categories:</h3>
 *  [Everyday Notes](./everyday-notes/full-list.md)
-*  [AI/ML](.AI/ai-ml/full-list.md)
+*  [AI/ML](./AI/ai-ml/full-list.md)
 
 
 // [Link to another page](./another-page.html).
