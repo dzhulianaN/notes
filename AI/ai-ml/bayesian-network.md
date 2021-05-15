@@ -116,10 +116,66 @@ Why factors?<br>
 - It turns out that these are the fundamental building block for defining distributions in high-dimensional spaces. That is the way in which we're going to define an exponentially large probability putting them together by multiplying factors in order to define these high dimensional probability distributions.<br>
 - Also, the same set of basic operation that we use to define the probability distributions in these high dimensional spaces are also what we use for manipulating them in order give us a set of basic inference algorithms.<br>
 Test:
-1 - 0.16 0.45 0.6 
-2 - 42 85 96 30
-3 - A & B
-4 - 108 135 79 141
+1 - 0.16 0.45 0.60 
+2 - 42 85 96 30 ?
+3 - A & B - correct
+4 - 108 135 79 141 - correct
+<br>b
+<br>3
+<br>0.05 0.14
+The student example
+- Grade 
+- course Difficulty
+- student Intelligence
+- student Sat
+- reference Letter
+<br>
+G depends on D
+I depends on G and S
+G depends on L
+<br>
+The model i a representation on how we believe the world works.
+<br>
+CPD
+<br>
+Chain rule for Bayesian Networks
+P(D,I,G,S,L) so to calculate this join probability distribution: P(d0*i1*g3*s1*l1)= 0.6*0.3*0.02*0.01*0.8
+<br>
+A Bayesian network is a directed acyclic (means: no cycles -> you can't go back when you started) graph (DAG)G whose nodes<br>
+represent the random variables X1, ..., Xn<br>
+And for each node in the graph, we have CPD - set of variables so this would be live the probability of G give I and D
+<br>
+The BN represents a join distribution via the chain rule for Bayesian networks.
+BN is a legal distribution: P >= 0
+<br>
+P is a product of factor (CPD) and CPD is non-negative and if you multiply a bunch of non-negative factors, you get a non-negative factor.
+<br>
+BN is a legal distribution: P = 1
+<br>
+The very first example of Bayesian network -> genetic inheritance:
+Genotype: AA, AB, AO, BO, BB, OO 
+Phenotype:A, B, AO, BO, AB
+<br>
+Reasoning patterns:<br>
+- causal reasoning (top to bottom)<br>
+- evidential reasoning (bottom to top)<br>
+- intercausal reasoning (2 causes of a single effect)<br>
+<br>
+Flow of probabilistic influence<br>
+<br>
+When can X influence Y?<br>
+Infleunce means condition on X chnages beliefs about Y.<br>
+- X -> Y / yes - causal<br>
+- X <- Y / yes - evidential<br>
+- X -> W -> Y / yes<br>
+- X <- W <- Y / yes<br>
+- X <- W -> Y / yes<br>
+- X -> W <- Y / V-structure no<br>
+<br>
+To activate a v-structure, Xi or one of its descendants is observed.
+
+
+
 
 
   
