@@ -13,6 +13,7 @@ Here are my thoughts, code snippets, learning journals on books, scientific arti
 *  [AI/ML](./AI/ai-ml/full-list.md)
 *  [Investing](./investing/full-list.md)
 *  [Mental Models](./mental-models/full-list.md)
+*  [Education](./education/full-list.md)
 
 <br>
 
