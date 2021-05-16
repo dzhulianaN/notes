@@ -12,6 +12,7 @@ Here are my thoughts, code snippets, learning journals on books, scientific arti
 *  [Everyday Notes](./everyday-notes/full-list.md)
 *  [AI/ML](./AI/ai-ml/full-list.md)
 *  [Investing](./investing/full-list.md)
+*  [Mental Models](./mental-models/full-list.md)
 
 
 // [Link to another page](./another-page.html).
