@@ -14,6 +14,7 @@ Here are my thoughts, code snippets, learning journals on books, scientific arti
 *  [Investing](./investing/full-list.md)
 *  [Mental Models](./mental-models/full-list.md)
 
+<br>
 
 // [Link to another page](./another-page.html).
 
