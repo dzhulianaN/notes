@@ -7,5 +7,5 @@ layout: default
 <h2>Education</h2>
 <br>
 *[Exlporing new ways of Kids education](./kids-education.md)<br>
-
-
+*[How to teach stuff](./)<br>
+*[Teaching principles](./)<br>

@@ -10,4 +10,4 @@ _yay_
 
 
 Medium blog:
-https://medium.com/@dzh.nikolova
+https://medium.com/@dzh.desio
