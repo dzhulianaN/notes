@@ -16,12 +16,13 @@ layout: default
 [2021-04-27 Usual Day](./2021-04-27-usual-day.md)<br>
 
 <h3>2020</h3>
+[2020-02-11 Eleanor Roosevelt rules](./2020-02-11.md)<br>
 
 <h3>2019</h3>
-[2019-03-10 Ben Franklin's system(./2019-03-10.md)<br>
+[2019-03-10 Ben Franklin's system](./2019-03-10.md)<br>
 
 <h3>2018</h3>
-[2018-09-14 Improving memory(./2018-09-14.md)<br>
+[2018-09-14 Improving memory](./2018-09-14.md)<br>
 
 <h3>2017</h3>
 [2017-08-01 Self-analysation system](./1-08-2017.md)<br>
