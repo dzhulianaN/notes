@@ -5,6 +5,7 @@ layout: default
 [back](https://dzhulianan.github.io/notes/)
 
 <h3>2022</h3>
+[Blog](https://medium.com/@dzh.desio)
 
 <br>
 <h3>2021</h3>
@@ -16,8 +17,9 @@ layout: default
 [2021-04-27 Usual Day](./2021-04-27-usual-day.md)<br>
 
 <h3>2020</h3>
+[2020-11-03 Self-discipline](./2020-11-03.md)<br>
 [2020-02-11 Eleanor Roosevelt rules](./2020-02-11.md)<br>
-
+I
 <h3>2019</h3>
 [2019-03-10 Ben Franklin's system](./2019-03-10.md)<br>
 

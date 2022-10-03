@@ -8,7 +8,7 @@ Here are my thoughts, code snippets, learning journals on books, scientific arti
 <h3>About me:</h3>
 *  [Twitter](https://twitter.com/dzhuliana_kn)
 *  [Linkedin](https://www.linkedin.com/in/dzhuliana-nikolova-b6805714a/)
-*  [Blog?!?](https://medium.com/@dzh.desio)
+*  [OneUpOneDown-The story of us](https://oneuponedown.org/about)
 <br>
 
 <h3>Other notes:</h3>
