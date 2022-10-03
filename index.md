@@ -6,13 +6,15 @@ layout: default
 <p>
 Here are my thoughts, code snippets, learning journals on books, scientific articles, blog posts, discussions, and life.</p>
 
-<h3>Categories:</h3>
+<h3>Blog:</h3>
+*  [Some more stuff from me](.//blog.md)
+<br>
+<h3>Other notes:</h3>
 *  [Everyday Notes](./everyday-notes/full-list.md)
 *  [AI/ML](./AI/ai-ml/full-list.md)
 *  [Investing](./investing/full-list.md)
 *  [Mental Models](./mental-models/full-list.md)
 *  [Education](./education/full-list.md)
-*  [Blog](.//blog.md)
 
 <br>
 
