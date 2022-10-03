@@ -9,6 +9,7 @@ Here are my thoughts, code snippets, learning journals on books, scientific arti
 
 
 <h3>Categories:</h3>TEST
+<h1>ANOTHER TEST</h1>
 *  [Everyday Notes](./everyday-notes/full-list.md)
 *  [AI/ML](./AI/ai-ml/full-list.md)
 *  [Investing](./investing/full-list.md)
