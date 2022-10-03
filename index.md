@@ -18,7 +18,7 @@ Here are my thoughts, code snippets, learning journals on books, scientific arti
 *  [Mind](./categories/mind/full-list.md)
 *  [Tech](./categories/tech/full-list.md)
 *  [Education](./categories/education/full-list.md)
-*  [Social behaviour](.categories/social-behaviour/full-list.md)
+*  [Neuroscience](./categories/neuroscience/full-list.md)
 
 <br>
 
