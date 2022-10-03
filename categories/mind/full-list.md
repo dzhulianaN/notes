@@ -9,4 +9,4 @@ layout: default
 <br>
 *[Mental models](./mental-models.md)<br>
 
-*[Meditation](./)<br>
+*[Meditation](https://dzhulianan.github.io/notes/)<br>

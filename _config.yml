@@ -1,7 +1,17 @@
 title: Dzhuliana's digital notebook
-logo: /assets/img/logo-dzh.png
+logo: /assets/img/dzh-desio.jpeg
 description: A digital notebook where I will keep all my stuff organized in order to find them easier in the future.
 show_downloads: false
 state: Co-founder & CTO at oneuponedown.org
 google_analytics:
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BMQDLFDEJZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BMQDLFDEJZ');
+</script>
+
 theme: jekyll-theme-minimal
