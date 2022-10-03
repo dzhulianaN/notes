@@ -8,7 +8,6 @@ Here are my thoughts, code snippets, learning journals on books, scientific arti
 <h3>About me:</h3>
 *  [Twitter](https://twitter.com/dzhuliana_kn)
 *  [Linkedin](https://www.linkedin.com/in/dzhuliana-nikolova-b6805714a/)
-*  [OneUpOneDown-The story of us](https://oneuponedown.org/about)
 <br>
 
 <h3>Other notes:</h3>
@@ -19,8 +18,12 @@ Here are my thoughts, code snippets, learning journals on books, scientific arti
 *  [Tech](./categories/tech/full-list.md)
 *  [Education](./categories/education/full-list.md)
 *  [Neuroscience](./categories/neuroscience/full-list.md)
-
 <br>
+
+<h3>OneUpOneDown</h3>
+*  [The story of us](https://oneuponedown.org/about)
+*  [Join](https://app.oneuponedown.org/register)
+
 
 
 <h3>Markdow stuff:</h3>
