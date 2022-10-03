@@ -13,6 +13,7 @@ Here are my thoughts, code snippets, learning journals on books, scientific arti
 
 <h3>Other notes:</h3>
 *  [Everyday Notes](./categories/everyday-notes/full-list.md)
+<br>
 *  [Body](./categories/body/full-list.md) 
 *  [Mind](./categories/mind/full-list.md)
 *  [Tech](./categories/tech/full-list.md)
