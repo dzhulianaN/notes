@@ -21,8 +21,7 @@ Here are my thoughts, code snippets, learning journals on books, scientific arti
 <br>
 
 <h3>OneUpOneDown</h3>
-*  [The story of us](https://oneuponedown.org/about)
-*  [Join](https://app.oneuponedown.org/register)
+*  [Building trusted relationships](https://oneuponedown.org/)
 
 
 
