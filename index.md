@@ -9,6 +9,7 @@ Here are my thoughts, code snippets, learning journals on books, scientific arti
 *  [Twitter](https://twitter.com/dzhuliana_kn)
 *  [Linkedin](https://www.linkedin.com/in/dzhuliana-nikolova-b6805714a/)
 *  [Instagram](https://www.instagram.com/dzhuliana.kn/)
+<br>
 <h3>Other notes:</h3>
 *  [Everyday Notes](./categories/everyday-notes/full-list.md)
 <br>
