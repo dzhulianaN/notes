@@ -1,6 +1,6 @@
 title: Dzhuliana's digital notebook
-logo: /assets/img/logo-dzh.png
+logo: /assets/img/dzh-desio.jpeg
 description: A digital notebook where I will keep all my stuff organized in order to find them easier in the future.
-show_downloads: true
-google_analytics:
+show_downloads: false
+state: Co-founder & CTO at oneuponedown.org
 theme: jekyll-theme-minimal
