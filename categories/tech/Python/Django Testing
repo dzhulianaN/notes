@@ -1,0 +1,36 @@
+(venv) Dzhulianas-MacBook-Pro:one-up-one-down dzhuliananikolova$ ./manage.py shell
+Python 3.7.4 (default, Jun 27 2020, 13:06:53) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.16.1 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: from oneup.core.processors import test_match()                                                                                                
+  File "<ipython-input-1-7158ee32e8b9>", line 1
+    from oneup.core.processors import test_match()
+                                                ^
+SyntaxError: invalid syntax
+
+
+In [2]: from oneup.core.processors import test_match                                                                                                  
+
+In [3]: test_match()                                                                                                                                  
+Creating LP problem...
+mentors 7 mentees 33
+mentor loop 0.004242897033691406s
+mentor loop 0.0066568851470947266s
+mentor loop 0.004853963851928711s
+profit 0
+profit 0
+mentor loop 0.04952716827392578s
+profit 0
+mentor loop 0.01483011245727539s
+profit 0
+mentor loop 0.016574859619140625s
+mentor loop 0.007444858551025391s
+Starting solve...
+lp_prob.solutionTime 0.0037929999999999353
+mentor,mentee,mentor_dob,mentee_dob,number_tags,mentor_same_country,mentee_same_country,mentor_country,mentee_country
+total matches 0
+
+In [4]:                                                                                                                                               
+Do you really want to exit ([y]/n)? y
+(venv) Dzhulianas-MacBook-Pro:one-up-one-down dzhuliananikolova$ ./manage.py runserver

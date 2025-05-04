@@ -1,0 +1,49 @@
+••
+••
+// 1.3 Philosophy of AI
+
+Alan Turing (1912-1954) was an English mathematician and logician. He is rightfully considered to be 
+the father of computer science. Turing was fascinated by intelligence and thinking, and the possibility 
+of simulating them by machines. Turing’s most prominent contribution to AI is his imitation game, which 
+later became known as the Turing test.
+
+https://en.wikipedia.org/wiki/Turing_test
+
+
+One problem: does being human-like mean you are intelligent?
+
+One criticism of the Turing test as a test for intelligence is that it may actually measure whether the 
+computer behaves like a human more than whether it is intelligent. The test has indeed been “passed” by 
+computer programs that keep changing the subject, make plenty of spelling errors, and sometimes refuse to 
+respond at all. A famous example is Eugene Goostman, a 13-year-old Ukrainian boy who constantly tries to 
+avoid answering questions by making jokes and changing the subject to his pet guineapig. 
+
+https://www.scottaaronson.com/blog/?p=1858
+
+The Chinese room argument
+
+The idea that intelligence is the same as intelligent behavior has been challenged by some. The best known 
+counter-argument is John Searle’s Chinese Room thought experiment. Searle describes an experiment where a person 
+who doesn't know Chinese is locked in a room. Outside the room is a person who can slip notes written in Chinese 
+inside the room through a mail slot. The person inside the room is given a big manual where she can find detailed 
+instructions for responding to the notes she receives from the outside.
+
+www.iep.utm.edu/chineser/
+
+
+
+Key terminology
+General vs narrow AI
+
+When reading the news, you might see the terms “general” and “narrow” AI. So what do these mean? Narrow AI refers 
+to AI that handles one task. General AI, or Artificial General Intelligence (AGI) refers to a machine that can handle 
+any intellectual task. All the AI methods we use today fall under narrow AI, with general AI being in the realm of 
+science fiction. In fact, the ideal of AGI has been all but abandoned by the AI researchers because of lack of progress 
+towards it in more than 50 years despite all the effort. In contrast, narrow AI makes progress in leaps and bounds.
+Strong vs weak AI
+
+A related dichotomy is “strong” and “weak” AI. This boils down to the above philosophical distinction between being 
+intelligent and acting intelligently, which was emphasized by Searle. Strong AI would amount to a “mind” that is 
+genuinely intelligent and self-conscious. Weak AI is what we actually have, namely systems that exhibit intelligent 
+behaviors despite being “mere“ computers.
+

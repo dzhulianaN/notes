@@ -1,0 +1,96 @@
+÷÷÷
+÷÷÷
+÷÷÷
+
+// Course path
+
+1. Developing International Software
+2. Algorithms and Data Structures
+3. Designing a Technical Solution
+4. Building Functional Prototypes
+5. Building Interactive Prototype
+6. Object Oriented Programming
+7. Learn to Program in Java
+8. Writing professional Code
+9. Introduction to Python: Fundamentals
+10. Logic and Computational Thinking
+11. Introduction to Design Thinking
+12. Introduction to Python: Absolute Beginner
+
+Let’s say you’ve just finished your app. Getting the engineers and UX developers all on the same page 
+to realize your vision was brutal, but now your baby is out there selling like mad. Everyone in the world 
+wants it, but there’s just one problem: it’s only available in English. And it’s for a US audience. You 
+figure you can just use some kind of translator, so you pull one off the Internet and translate your strings 
+into German. But after you compile your German app and run it, the text is cut off. So, you realize you 
+have more work to do.
+
+In the meantime, people in other countries have downloaded the English version of your app, tried to use it, 
+and got upset when they had trouble entering text in their own language. Worse, the “auto-correct” feature, 
+which doesn’t understand any language other than English, suggests offensive words to some users. Now you’re 
+getting hate mail. You discover retro-fitting your app for international markets is going to cost more than 
+the original build. If you’d planned ahead, you’d be flying high. Instead, you’re apologizing and announcing 
+delays for a global rollout.
+
+You wouldn’t be the first to experience this nightmare. In this course, seasoned veterans who’ve been down 
+that road will set you on the path toward global success.
+
+Learn from Our Mistakes
+In the 1990s, companies like Microsoft would first create software for their biggest market: English 
+speakers in the United States. Only after they shipped the “English-US” product would the core development 
+team pass the code to a completely separate team, who would embark on modifying it for markets outside the US. 
+Several months later, the first international edition would arrive, usually German, followed in subsequent 
+months by editions prioritized by market size.
+
+Sounds like a pretty straightforward process, right? Except that it wasn’t.
+
+“Retro-fitting” software to accommodate differences in language, country standards and culture is similarly 
+painful, complicated, expensive and time-consuming. That’s why it’s so important to build “world-readiness” 
+into the user experience and code design from the very beginning of a project.
+
+Module One
+This course consists of three main modules. The first focuses on the business side of international software 
+design. You need to make the business case—first to yourself, then to your managers or investors—that shipping 
+your software outside your home market makes sense. To make informed decisions, you need to understand the basics 
+of creating world-ready software.
+
+What does it mean to create world-ready software and why is it an important thing to do?
+When does it make sense to ship software to a specific market?
+How much of effort is required to make software work for multiple markets, and what kind of resources will 
+be necessary to do so?
+The objective of this part of the course is to get the business and engineering teams on the same page and 
+communicating so they understand each other’s issues. It provides a basis for such discussions, focusing on 
+concepts rather than technical details. In this day and age of mobile app development, however, business and 
+technical decision makers can be the same people. It can even be the same person, if you are a team of one, in 
+which case, understanding the business issues related to world-ready software is definitely a requirement.
+
+Module Two
+The second module of the course focuses on User Experience design. In the early days of the technology industry, 
+no one thought much about the User Experience. These days, User Experience design is its own specialization. 
+Experience designers work to build software that not only functions the way people expect, but that they enjoy using.
+
+Creating software that works—as is—for people around the world requires thoughtful design. While human beings 
+have a lot of commonalities, we also have a lot of differences, particularly when it comes to what we need, expect, 
+and enjoy from a software experience. It’s not just about taste. It’s about cultural and geographical context as well.
+
+Because the perspectives are very different, outstanding User Experience (UX) designers seldom write code, 
+while engineers are seldom outstanding UX designers. Fortunately, your engineering instructors have recruited 
+experts who have lived and breathed the design discipline for many years. If you are an engineer, it’s important 
+to understand what a designer does and how your code needs to support their work. This course won’t cover design 
+in detail, but will focus on world-ready aspects of design. If you are a designer, this part of the course 
+will help you understand what engineers need to do to implement your designs in a world-ready fashion.
+
+We’ll talk about what a “world-ready user experience” means and the market, language, regional, and cultural 
+differences that affect the design of software experiences.
+We’ll then spend time exploring effective design approaches.
+Next we’ll get specific on localization (i.e., customization for local markets), and the importance of culturalization.
+Finally, we’ll talk about scenario design and hardware considerations.
+
+Module Three
+Module Three of the course assumes that you already know how to code, but that you have not yet experienced 
+writing software for international markets. There are four coding exercises. Each includes a written explanation 
+of what you need to do and a video walk through in case you need extra help.
+
+Once you’ve completed the exercises, you should understand the basics of writing world-ready code and structuring 
+your source files to make your software localizable. We say basics because the homework assignments won’t take you 
+through the nuances of every available API, tool or technique, some of which differ depending on the platform and 
+programming language you choose. We will, however, point you to sources that will help you explore more advanced topics.

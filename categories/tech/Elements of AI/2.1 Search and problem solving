@@ -1,0 +1,20 @@
+••
+••
+// 2.1 Search and problem solving
+
+Many problems can be phrased as search problems. This requires that we start by formulating the alternative 
+choices and their consequences. 
+
+We will not focus on the actual search algorithms. Instead, we emphasize the first stage of the problem solving 
+process: defining the choices and their consequences, which is often far from trivial and can require careful 
+thinking. We also need to define what our goal is, or in other words, when we can consider the problem solved. 
+After this has been done, we can look for a sequence of actions that leads from the initial state to the goal.
+
+In this chapter, we will discuss two kinds of problems:
+
+    Search and planning in static environments with only one “agent”
+    Games with two-players (“agents”) competing against each other
+
+These categories don’t cover all possible real-world scenarios, but they are generic enough to demonstrate the 
+gmain concepts and techniques.
+

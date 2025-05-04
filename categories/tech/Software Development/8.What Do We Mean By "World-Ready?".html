@@ -1,0 +1,98 @@
+
+// The importance of building International Software
+
+To be successful, software that ships internationally must be world-ready. World-ready 
+software works the way people in different areas of the world, who speak different languages, 
+expect it to. Normal people don’t think about whether their software is world-ready, and they 
+shouldn’t have to. If you’ve done proper work under the covers, no one will notice (you seldom 
+get credit when things go smoothly). The only time people notice is when the software doesn’t 
+work the way they expect. Then they come after you with pitchforks, usually on social media, 
+which lives on forever and ever, like Egyptian mummies. You could almost say that the most 
+“stand out” User Experiences are the bad ones.
+
+World-ready software provides a consistent experience, regardless of where you are, although 
+different language editions often contain minor variations. It’s kind of like eating at the fast 
+food chain McDonald’s, which has restaurants in 118 countries and territories. The core menu is 
+more or less the same wherever you go, but some locations add items (like Spam in Hawaii or spaghetti 
+in the Philippines), while others subtract items (some countries don’t serve beef). And the same 
+item isn’t always the same—“Chicken McNuggets” are dipped in batter in some countries and breaded 
+in others. Even names change: a “Quarter Pounder with Cheese” is called a “Royal with Cheese” in 
+countries that use the metric system.
+
+Menu items common across countries have global appeal. McDonald’s adds items appropriate to a city 
+or country because they have local appeal. Globally, McDonald’s restaurants use standardized practices, 
+processes and equipment as much as possible, because time has shown they work efficiently and maintain 
+overall consistency of experience from restaurant to restaurant. Restaurants will of course have different 
+suppliers and employees, and must comply with local regulations. Therefore, some operational details 
+will vary. But standardization keeps reinvention and modifications to a minimum.
+
+Here are some software-related examples of consistency of experience across language editions of an app:
+
+Users can enter and edit text without a struggle, using their local keyboard layout.
+Dates, numbers, times, and addresses show up in the right format, along with the expected measurement system, 
+currency symbols, calendar conventions, and paper formats.
+The layout of menus and the dialog boxes (the UI) will show only slight variations, if any, even if the text 
+is in a different language, the dialog box sizes larger or smaller, and the orientation of menus right-to-left 
+instead of left-to-right as appropriate.
+The process of creating world-ready software involves two complementary processes: globalization (sometimes 
+also called internationalization) and localization. Globalization is the process of making things generic, 
+while localization is the process of making things specific.
+
+Globalization
+Globalization is about writing code to take advantage of operating system or programming language functions 
+that handle the input, layout, and display in multiple languages as needed, as well as the formatting of 
+numbers and other data. This means you can use the same code for multiple international editions of your 
+software, instead of having to write code that is specific to a language or region.
+
+That may sound complicated, so we’ll illustrate with an example.
+
+Imagine you and your significant other both speak 67 languages. One day she tells you it’s her dream to 
+read Harry Potter and the Deathly Hallows in each of the languages you both speak, one at a time. Wanting 
+to be supportive, you set about translating this extremely long book 67 times. One day, when you’re 103 years old, 
+you finish the task, your significant other gives you a kiss on the cheek, and life is good.
+
+But there’s an easier way.
+
+Let’s say there’s a library whose collection includes Harry Potter books which other people have translated into 
+the 67 languages. So instead of translating each volume of Harry Potter and the Deathly Hallows yourself, 
+you just need to check it out of the library.
+
+Operating systems and programming languages contain libraries as well, of data specific to a language or region, 
+such as the currency symbol used in Qatar, the measurement system people use in Russia, and what symbols are 
+used for AM and PM in Japan. To retrieve this information, you ask the system or programming language for it 
+by invoking a function call, specifying which language and region corresponds to the information you want. 
+The system or programming language then functions like the Harry Potter librarian and retrieves the information 
+you request.
+
+Let’s go back to our example. You would like to read Harry Potter and the Deathly Hallows in Japanese. Since the 
+librarian knows the library best, she knows where to find all language editions of all books in the Harry Potter 
+series. You simply ask her to fetch you Harry Potter and the Deathly Hallows. This is analogous to a function 
+call. To indicate which language edition you want, you write “Japanese” on a slip of paper and hand it to the 
+librarian. This is analogous to setting the language parameter for the function call to Japanese. While you wait 
+at a counter, the librarian takes the paper from you, reads it, goes into the back room, and returns with the 
+book you’ve requested.
+
+Now say your significant other plans to ask you to fetch her Harry Potter and the Deathly Hallows in different 
+languages on a regular basis. Rather than make you remember exactly which language edition she wants, she writes 
+it down on a piece of paper, which she folds up. You take the paper to the library and hand it to the librarian 
+without having to look at what your significant other wrote. The librarian disappears into the back and retrieves 
+the book, which you then deliver to your significant other. You don’t need to know what’s written on the paper. 
+You only need to give the paper to the librarian, who will know what to do with it. In this case, your significant 
+other represents the software user, who cites her language preference using system settings, while you represent 
+the software that transmits her request to the system and returns the result that corresponds to her language setting.
+
+Localization
+Localization is simpler to explain. It’s the work you do to customize software based on language, country, 
+region or culture:
+
+Translating the User Interface (UI).
+Replacing language-specific functionality or content, such as spell checkers or audio and video files.
+Changing, adding or removing features based on:
+Relevance to the target market.
+Local laws or customs.
+The resources you have available to make features work for the specific market.
+While globalized code is often localized, it doesn’t have to be. For example, English UIs are acceptable to many people in non-English speaking countries, as long as the software properly handles the input and display of their native language. How well you design your User Experience, your code base, and your software architecture will determine how easy it is to localize, i.e., how localizable it is.
+
+In sum:
+
+Globalized code + Localizable user experience = World-ready software.

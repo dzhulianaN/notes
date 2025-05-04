@@ -1,0 +1,49 @@
+••
+••
+// 1.2 Related fields
+
+Machine learning can be said to be a subfield of AI, which itself is a subfield of computer science (such categories 
+are often somewhat imprecise and some parts of machine learning could be equally well or better belong to statistics). 
+Machine learning enables AI solutions that are adaptive. A concise definition can be given as follows:
+
+
+
+Key terminology
+Machine learning
+
+Systems that improve their performance in a given task with more and more experience or data.
+
+Deep learning is a subfield of machine learning, which itself is a subfield of AI, which itself is a subfield of 
+computer science.
+
+Data science is a recent umbrella term (term that covers several subdisciplines) that includes machine learning and 
+statistics, certain aspects of computer science including algorithms, data storage, and web application development. 
+Data science is also a practical discipline that requires understanding of the domain in which it is applied in, for 
+example, business or science: its purpose (what "added value" means), basic assumptions, and constraints. Data science 
+solutions often involve at least a pinch of AI (but usually not as much as one would expect from the headlines).
+
+Robotics means building and programming robots so that they can operate in complex, real-world scenarios. In a way, 
+robotics is the ultimate challenge of AI since it requires a combination of virtually all areas of AI. For example:
+
+    Computer vision and speech recognition for sensing the environment
+    Natural language processing, information retrieval, and reasoning under uncertainty for processing instructions 
+    and predicting consequences of potential actions
+    Cognitive modeling and affective computing (systems that respond to expressions of human feelings or that mimic 
+    feelings) for interacting and working together with humans
+
+
+Taxonomy of AI
+
+A taxonomy is a scheme for classifying many things that may be special cases of one another. We have explained the 
+relationships between a number of disciplines or fields and pointed out, for example, that machine learning is usually 
+considered to be a subfield of AI.
+
+A convenient way to visualize a taxonomy is an Euler diagram. An Euler diagram (closely related to the more familiar 
+Venn diagrams) consists of shapes that corresponds to concepts, which are organized so that overlap between the shapes 
+corresponds to overlap between the concepts (see for example Wikipedia: Euler Diagram).
+
+Notice that a taxonomy does not need to be strictly hierarchical. A discipline can be a subfield of more than one more 
+general topic: for example, machine learning can also be thought to be a subfield of statistics. In this case, the 
+subfield concept would be placed in the overlap between the more general topics.
+
+
